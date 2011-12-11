@@ -7,7 +7,7 @@
 Наша группа Вконтакте: http://vkontakte.ru/moscowjs
 
 Самую актуальную информацию вы можете получить в твиттере [@MoscowJS] или подписавшись на обновления этого репозитория.  
-Для эстетов есть IRQ: irc://irc.freenode.net:6667/%23moscowjs
+Для эстетов есть IRC: irc://irc.freenode.net:6667/%23moscowjs
 
 [@MoscowJS]: http://twitter.com/MoscowJS
 
